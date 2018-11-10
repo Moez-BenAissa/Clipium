@@ -7,10 +7,10 @@ Clipium is an open source automation testing framework for Rest and SOAP Apis. I
 
 # Communication
 
-- Twitter: [@Clipium(https://twitter.com/ClipiumTestAuto)
-- Facebook: [Clipium](https://www.facebook.com/ClipiumTestAuto)
-- [GitHub Issues](https://github.com/Ben-MBA/Clipium/issues)
-- [Gitter Chat](https://gitter.im/Clipium/Lobby)
+- Twitter: [Clipium](https://twitter.com/Clipium)
+- Facebook: [Clipium](https://www.facebook.com/Clipium)
+- Issues : [GitHub Issues](https://github.com/Ben-MBA/Clipium/issues)
+- Chat : [Gitter Chat](https://gitter.im/Clipium/Lobby)
 
  
 # Maven dependecy
@@ -35,6 +35,6 @@ moez.benaissa@gmail.com
 
 # Licence
 
-[![Mozium Licence](https://img.shields.io/badge/Licence-Private-blue.svg)](https://img.shields.io/badge/Licence-Private-blue.svg)
+[![Mozium Licence](https://img.shields.io/badge/Licence-Open-blue.svg)](https://img.shields.io/badge/Licence-Open-blue.svg)
 
 
