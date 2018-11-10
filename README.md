@@ -9,7 +9,7 @@ Clipium is an open source automation testing framework for Rest and SOAP Apis. I
 
 - Twitter: [Clipium](https://twitter.com/Clipium)
 - Facebook: [Clipium](https://www.facebook.com/Clipium)
-- Issues : [GitHub Issues](https://github.com/Ben-MBA/Clipium/issues)
+- Issues : [GitHub Issues](https://github.com/Moez-BenAissa/Clipium/issues)
 - Chat : [Gitter Chat](https://gitter.im/Clipium/Lobby)
 
  
@@ -25,13 +25,13 @@ Clipium is an open source automation testing framework for Rest and SOAP Apis. I
 
 # Quick start
 
-Please see the example : [Tutorial] http://github.com/Ben-MBA/Clipium-examples
+Please see the example : [Tutorial] http://github.com/Moez-BenAissa/Clipium-examples
 
 # Full Documentation
 See the [Wiki](https://github.com/Ben-MBA/Clipium/wiki) for documentation, instalation, examples and other information.
 
 # Contact
-- Profile Git : https://github.com/Ben-MBA
+- Profile Git : https://github.com/Moez-BenAissa
 - Linked-In : https://www.linkedin.com/in/ben-aissa-moez-983a6054/
 - Email : moez.benaissa@gmail.com
 
