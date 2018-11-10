@@ -31,7 +31,9 @@ Please see the example : [Tutorial] http://github.com/Ben-MBA/Clipium-examples
 See the [Wiki](https://github.com/Ben-MBA/Clipium/wiki) for documentation, instalation, examples and other information.
 
 # Contact
-moez.benaissa@gmail.com
+- Profile Git : https://github.com/Ben-MBA
+- Linked-In : https://www.linkedin.com/in/ben-aissa-moez-983a6054/
+- Email : moez.benaissa@gmail.com
 
 # Licence
 
