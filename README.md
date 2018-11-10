@@ -37,6 +37,7 @@ See the [Wiki](https://github.com/Ben-MBA/Clipium/wiki) for documentation, insta
 
 # Licence
 
-[![Mozium Licence](https://img.shields.io/badge/Licence-Open-blue.svg)](https://img.shields.io/badge/Licence-Open-blue.svg)
+[![Mozium Licence](https://img.shields.io/badge/Licence-Open-blue.svg)](https://img.shields.io/badge/Licence-Open-blue.svg) 
+  [heer...](https://github.com/Ben-MBA/Clipium/blob/master/LICENSE)
 
 
