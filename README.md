@@ -1,6 +1,8 @@
 # Clipium
 Clipium is an open source automation testing framework for Rest and SOAP Apis. It is based on Cucumber and Rest-assured open source tools. 
 
+OPENED SOON!
+
 
 [![Clipium status](https://img.shields.io/badge/Clipium-Passed-blue.svg)](https://img.shields.io/badge/Clipium-Passed-blue.svg)
 [![Cliup version](https://img.shields.io/badge/Clipium-v--1.0.2-green.svg)](https://img.shields.io/badge/Clipium-v--1.0.2-green.svg)
@@ -38,6 +40,6 @@ See the [Wiki](https://github.com/Ben-MBA/Clipium/wiki) for documentation, insta
 # Licence
 
 [![Mozium Licence](https://img.shields.io/badge/Licence-Open-blue.svg)](https://img.shields.io/badge/Licence-Open-blue.svg) 
-  [heer...](https://github.com/Ben-MBA/Clipium/blob/master/LICENSE)
+  [here...](https://github.com/Ben-MBA/Clipium/blob/master/LICENSE)
 
 
